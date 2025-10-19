@@ -1,0 +1,16 @@
+{
+  "name": "first-backend",
+  "version": "1.0.0",
+  "description": "Soham",
+  "license": "ISC",
+  "author": "Soham Rorane",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
